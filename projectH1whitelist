@@ -1,6 +1,6 @@
 local whitelist = {
     "gameeboy335",
-    "NameHere",
+    "nataliam1T",
 }
 
 for i,white in pairs(whitelist) do
